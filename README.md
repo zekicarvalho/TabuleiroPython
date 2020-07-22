@@ -1,5 +1,5 @@
 # TabuleiroPython
-Resumidamente esse programinha serve para simular um tabuleiro com todas as peças de xadrez, as peças não possuem nenhma limitação e podem ser movidas para qualquer lugar do tabuleiro e o interresante é joga-lo contra um amigo localmente.
+Resumidamente esse programinha serve para simular um tabuleiro com todas as peças de xadrez, as peças não possuem nenhuma limitação e podem ser movidas para qualquer lugar do tabuleiro e o interresante é joga-lo contra um amigo localmente.
 ## Tutorial
 Essa é a imagem dele:
 ![  ](https://raw.githubusercontent.com/zekicarvalho/TabuleiroPython/master/tutorial.png)
